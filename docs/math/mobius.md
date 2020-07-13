@@ -469,7 +469,7 @@ $$
     }
     ```
 
-###  [「BZOJ 2154」Crash 的数字表格](https://www.luogu.com.cn/problem/P1829) 
+###  [「Luogu P1829」Crash 的数字表格](https://www.luogu.com.cn/problem/P1829) 
 
 求值（对 $20101009$ 取模）
 
@@ -696,7 +696,7 @@ $$
     }
     ```
 
-###  [「luogu 3768」简单的数学题](https://www.luogu.com.cn/problem/P3768) 
+###  [「Luogu 3768」简单的数学题](https://www.luogu.com.cn/problem/P3768) 
 
 求
 
